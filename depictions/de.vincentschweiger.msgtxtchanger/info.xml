@@ -1,0 +1,23 @@
+<package>
+	<id>de.vincentschweiger.msgtxtchanger</id>
+	<name>Messages Text Changer</name>
+	<version>0.0.1</version>
+	<compatibility>
+		<firmware>
+			<maxiOS>14</maxiOS>
+			<otherVersions>unsupported</otherVersions>
+			<!--
+			for otherVersions, you can put either unsupported or unconfirmed
+			-->
+		</firmware>
+	</compatibility>
+	<dependencies>de.vincentschweiger.libcosmo</dependencies>
+	<descriptionlist>
+		<description>Change the title in the messages app</description>
+	</descriptionlist>
+	<screenshots></screenshots>
+	<changelog>
+		<change>Initial release</change>
+	</changelog>
+	<links></links>
+</package>
